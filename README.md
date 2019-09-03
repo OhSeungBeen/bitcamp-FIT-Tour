@@ -11,6 +11,9 @@ a travel management website using Java, CSS, HTML, JavaScript, Spring, Mybatis, 
 ## Demo Video (Youtube)
 - https://youtu.be/xeFrYaEQwm8
 
+## Presentation Video (Youtube)
+- https://www.youtube.com/watch?v=nZbCv-SNjD8&t=995s
+
 ## Tech Stacks
 #### Front-end
 
