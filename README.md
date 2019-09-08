@@ -5,9 +5,6 @@ a travel management website using Java, CSS, HTML, JavaScript, Spring, Mybatis, 
 - Team size : 3
 <img src="https://github.com/OhSeungBeen/bitcamp-fit-tour/blob/master/readme.png" width="700" height="200">
 
-## Portfolio
-- https://www.slideshare.net/ohseungbeen/portfolio-168644223
-
 ## Demo Video (Youtube)
 - https://youtu.be/xeFrYaEQwm8
 
